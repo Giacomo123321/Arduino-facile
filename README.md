@@ -1,2 +1,2 @@
 # Arduino-facile
-Codici e cablaggi presentati nel corso nel corso
+Codici e cablaggi presentati nel corso
